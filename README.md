@@ -1,6 +1,6 @@
-**Project: RNA Folding Problem Solver**
+**Bioinformatics of RNA GENIOMHE Master - 2023/2024**
 
-# Bioinformatics of RNA GENIOMHE Master - 2023/2024
+# Project: RNA Folding Problem Solver 
 
 ## Introduction
 The RNA Folding Problem is a challenge in bioinformatics that involves determining the native fold of a ribonucleotide chain among a important number of potential conformations. The goal is to identify the conformation with the lowest Gibbs free energy. In this project, you will implement three Python scripts to address different aspects of this problem.
