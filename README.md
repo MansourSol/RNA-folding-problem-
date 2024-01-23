@@ -3,7 +3,7 @@
 # Project: RNA Folding Problem Solver 
 
 ## Introduction
-The RNA Folding Problem is a challenge in bioinformatics that involves determining the native fold of a ribonucleotide chain among a important number of potential conformations. The goal is to identify the conformation with the lowest Gibbs free energy. In this project, you will implement three Python scripts to address different aspects of this problem.
+The RNA Folding Problem is a challenge in bioinformatics that involves determining the native fold of a ribonucleotide chain among a important number of potential conformations. The goal is to identify the conformation with the lowest Gibbs free energy. In this project, we will implement three Python scripts to address different aspects of this problem.
 
 ## Scripts Overview
 This project comprises four Python scripts:
