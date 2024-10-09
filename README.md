@@ -29,7 +29,4 @@ This project comprises four Python scripts:
 **Usage:**
 Execute `main_script.py` to automate training and plotting processes. You need to provided the input path containing the PDB files and the output directory for the train script and the plot script.
 
-**Authors:**
-MANSOUR Solène, CROQUET Marie
-
 
